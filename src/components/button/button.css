@@ -1,0 +1,36 @@
+.btn {
+  flex: 1 1;
+  font-family: Roboto, sans-serif;
+  font-size: 2.375rem;
+  font-weight: bold;
+  border: 0.125rem solid white;
+  border-radius: 1rem;
+  color: white;
+  height: 5rem;
+  cursor: pointer;
+  margin: 0.25rem;
+}
+
+.btn-number {
+  background-color: #1b1b32;
+}
+.btn-number:hover {
+  background-color: #5a01a7;
+}
+
+.btn-action {
+  background-color: #00471b;
+}
+
+.btn-action:hover {
+  background-color: #ff6600;
+}
+
+.btn-clear {
+  background-color: #ac0246;
+  width: 100%;
+}
+
+.btn-clear:hover {
+  background-color: #ebb000;
+}
