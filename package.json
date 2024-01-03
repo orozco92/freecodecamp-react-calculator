@@ -1,5 +1,6 @@
 {
-  "name": "calculator",
+  "name": "react-calculator",
+  "description": "Exercise project from freeCodeCamp tutorial https://www.freecodecamp.org/news/learn-react-in-spanish-course-for-beginners",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
